@@ -18,7 +18,7 @@ int main() {
             }
             printf("\n");
         }
-        usleep(150000);
+        usleep(150);
         system("cls"); 
     }
 
